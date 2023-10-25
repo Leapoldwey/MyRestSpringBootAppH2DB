@@ -1,6 +1,5 @@
-package com.example.myrestspringbootapph2db.controller.dsciplines;
+package com.example.myrestspringbootapph2db.controller.disciplines;
 
-import com.example.myrestspringbootapph2db.dao.ServiceDisciplinesDAO;
 import com.example.myrestspringbootapph2db.entity.AcademicDisciplines;
 import com.example.myrestspringbootapph2db.service.DisciplinesService;
 import org.springframework.beans.factory.annotation.Autowired;
